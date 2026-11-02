@@ -11,22 +11,22 @@
           <mxGeometry height="24" width="1200" x="250" y="70" as="geometry" />
         </mxCell>
         <mxCell id="L1" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFD6F6;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="135" width="1660" x="20" y="105" as="geometry" />
+          <mxGeometry height="135" width="1637" x="20" y="105" as="geometry" />
         </mxCell>
         <mxCell id="L2" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D8C6F3;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="135" width="1660" x="20" y="248" as="geometry" />
+          <mxGeometry height="135" width="1637" x="20" y="248" as="geometry" />
         </mxCell>
         <mxCell id="L3" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFE5CA;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="135" width="1660" x="20" y="391" as="geometry" />
+          <mxGeometry height="135" width="1637" x="20" y="391" as="geometry" />
         </mxCell>
         <mxCell id="L4" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#F8CFB0;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="135" width="1660" x="20" y="534" as="geometry" />
+          <mxGeometry height="135" width="1637" x="20" y="534" as="geometry" />
         </mxCell>
         <mxCell id="L5" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#B5E2DC;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="135" width="1660" x="20" y="677" as="geometry" />
+          <mxGeometry height="135" width="1637" x="20" y="677" as="geometry" />
         </mxCell>
         <mxCell id="L6" parent="1" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#D8C6F3;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="135" width="1660" x="20" y="820" as="geometry" />
+          <mxGeometry height="135" width="1637" x="20" y="820" as="geometry" />
         </mxCell>
         <mxCell id="H1" parent="1" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=20;shadow=1;roundedPerimeter=1;fontStyle=1" value="&lt;span&gt;Patient&lt;/span&gt;" vertex="1">
           <mxGeometry height="115" width="175" x="30" y="115" as="geometry" />
