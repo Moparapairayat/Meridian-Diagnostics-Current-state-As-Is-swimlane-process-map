@@ -257,17 +257,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k1" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#0B1F5C;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size:26px&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/font&gt;&lt;br&gt;data entries" vertex="1">
-          <mxGeometry height="64" width="200" x="1812" y="172" as="geometry" />
+        <mxCell id="k1" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontColor=#330000;fontSize=14;fontStyle=1;shadow=1;roundedPerimeter=1;glass=0;fillStyle=auto;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/font&gt;&lt;br&gt;data entries" vertex="1">
+          <mxGeometry height="64" width="91" x="1373" y="999" as="geometry" />
         </mxCell>
-        <mxCell id="k2" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#0B1F5C;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size:26px&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/font&gt;&lt;br&gt;handoffs" vertex="1">
-          <mxGeometry height="64" width="200" x="1801" y="308" as="geometry" />
+        <mxCell id="k2" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontColor=#330000;fontSize=15;fontStyle=1;shadow=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/font&gt;&lt;br&gt;handoffs" vertex="1">
+          <mxGeometry height="64" width="93" x="1475" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="k3" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#E11D48;strokeColor=none;fontColor=#FFFFFF;fontSize=12;fontStyle=1;shadow=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size:26px&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/font&gt;&lt;br&gt;pain points" vertex="1">
-          <mxGeometry height="64" width="205" x="1820" y="468" as="geometry" />
+        <mxCell id="k3" parent="1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontColor=#330000;fontSize=15;fontStyle=1;shadow=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;5&lt;/b&gt;&lt;/font&gt;&lt;br&gt;pain points" vertex="1">
+          <mxGeometry height="64" width="90" x="1576" y="1001" as="geometry" />
         </mxCell>
         <mxCell id="kU7BbWyoZzLbuQ2N4aEC-5" connectable="0" parent="1" style="group;fontSize=13;" value="" vertex="1">
-          <mxGeometry height="53" width="1350" x="48" y="1008" as="geometry" />
+          <mxGeometry height="56" width="1350" x="48" y="1008" as="geometry" />
         </mxCell>
         <mxCell id="lg1" parent="kU7BbWyoZzLbuQ2N4aEC-5" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C7F0CF;strokeColor=#16A34A;strokeWidth=2;rounded=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="26" width="44" y="2" as="geometry" />
@@ -282,7 +282,7 @@
           <mxGeometry height="26" width="90" x="221" y="7" as="geometry" />
         </mxCell>
         <mxCell id="leg" parent="kU7BbWyoZzLbuQ2N4aEC-5" style="rounded=1;arcSize=30;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CBD5E1;strokeWidth=1.5;roundedPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="64" width="1382" x="-32" y="-11" as="geometry" />
+          <mxGeometry height="64" width="1330" x="-21" y="-8" as="geometry" />
         </mxCell>
         <mxCell id="lg5" parent="kU7BbWyoZzLbuQ2N4aEC-5" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FDE68A;strokeColor=#D97706;strokeWidth=2;rounded=1;roundedPerimeter=1;" value="" vertex="1">
           <mxGeometry height="30" width="36" x="785" y="6" as="geometry" />
